@@ -162,7 +162,6 @@ class CristalixAccountChanger(QMainWindow):
 
         self.layout.addWidget(self.scroll_area)
 
-        # Добавляем плашку с автором
         self.footer_layout = QHBoxLayout()
         self.footer_label = QLabel("Coded by: iJuspBentley")
         self.footer_label.setStyleSheet("color: gray; font-size: 12px; font-weight: bold;")
