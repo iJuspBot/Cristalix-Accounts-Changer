@@ -1,6 +1,7 @@
 
 # Cristalix Account Changer
 
+https://t.me/ijuspproduction
 **Cristalix Account Changer** — это приложение для удобного управления аккаунтами Cristalix, позволяющее менять аккаунты, настраивать параметры игры и автоматически запускать выбранные аккаунты.
 ![image](https://github.com/user-attachments/assets/6a371d7f-655a-4f68-8727-e13c387f7abf)
 
